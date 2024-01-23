@@ -1,3 +1,4 @@
 Hello world
 test
 test edit from github.com
+test edit settings from git config
